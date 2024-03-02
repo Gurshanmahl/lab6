@@ -10,7 +10,7 @@ def every_lab(foo):
 
 def main():
     """
-    Create a datetime object for today's date
+    Create a datetime object for  today's date
     """
 
     # COMPLETE IMPLEMENTATION
